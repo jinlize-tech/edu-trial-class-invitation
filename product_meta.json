@@ -1,0 +1,24 @@
+{
+  "number": 20,
+  "product_id": "JLZ-EDU-SK-017",
+  "chinese_name": "试听邀约方案",
+  "english_name": "Trial Class Invitation",
+  "repository_name": "edu-trial-class-invitation",
+  "product_type": "Skill",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-trial-class-invitation-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "试听课程、家长时间偏好、孩子情况、邀约渠道、名额规则和到访准备",
+  "main_output": "首次邀约、确认提醒、行前说明、未到场跟进和二次邀约文案",
+  "package_entries": [
+    "edu-trial-class-invitation/SKILL.md",
+    "edu-trial-class-invitation/references/DOMAIN_GUIDE.md",
+    "edu-trial-class-invitation/references/EXAMPLES.md",
+    "edu-trial-class-invitation/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
